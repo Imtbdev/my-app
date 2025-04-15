@@ -2,6 +2,8 @@
 
 **Restaurant Chooser** is a mobile app built with **React Native** that helps a group of people decide on a restaurant, taking into account their individual preferences and allowing vetoes during the voting process.
 
+## [Link to web version](https://my-app8675432456--5w5jx9r8n5.expo.app/)
+## [APK File](https://expo.dev/artifacts/eas/suAQ5wL2oEU6UsW2VwFtmA.apk)
 ---
 
 ## 🚀 Features
