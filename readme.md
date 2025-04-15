@@ -64,3 +64,36 @@ Forms in the app follow strict UX standards:
 - npm (v9+) or yarn (v1.22+)  
 - Expo CLI (globally installed)  
 - Android Studio / Xcode (for emulators) or Expo Go app (for physical devices)
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Kirito200207/RestaurantChooser
+cd RestaurantChooser
+npm install
+```
+
+## ▶️ Running the App (Development Mode)
+
+Start the development server:
+
+```bash
+npx expo start
+```
+
+You’ll see a QR code in your terminal. Choose one of these options:
+
+📱 Physical Device
+Install Expo Go on your phone
+
+Scan the QR code using your camera or Expo Go app
+
+💻 Emulator
+Press i for iOS simulator
+
+Press a for Android emulator
+
+🕐 Note: First build may take 5–10 minutes
+
